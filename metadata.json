@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Modern responsive weather intelligence application powered by Open-Meteo API featuring current weather, 7-day forecast, atmospheric insights, and planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
